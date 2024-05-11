@@ -1,0 +1,2 @@
+document.write('<style>@import url("//cloudmirrors.gitee.io/style/ys.css");</style>');
+document.write('<iframe id="weiboshow" width="300" height="420" class="share_self"  frameborder="0" scrolling="no" src="//widget.weibo.com/weiboshow/index.php?width=300&height=420&ptype=1&speed=0&skin=1&isTitle=0&noborder=1&isWeibo=1&isFans=0&uid=2116765903&verifier=7b807bb3&dpc=1" loading="lazy" style="position: absolute;right: 35px;top: 130px;"></iframe>');
